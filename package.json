@@ -1,6 +1,6 @@
 {
   "name": "ldapjs-rate-limit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "rate limit middleware for ldapjs",
   "main": "lib/ldapjs-rate-limit.js",
   "files": [
